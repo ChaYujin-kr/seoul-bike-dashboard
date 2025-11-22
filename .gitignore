@@ -1,3 +1,10 @@
 ```text
 keys/
 ```
+
+airflow*
+dags/
+logs/
+data/
+standalone_admin_password.txt
+webserver_config.py
