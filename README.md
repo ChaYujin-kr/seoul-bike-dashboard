@@ -1,7 +1,7 @@
 # 🚲 Seoul Bike Intelligent Operation Dashboard (서울시 따릉이 지능형 운영 대시보드)
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-red)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-red)](https://seoul-bike-dashboard-superrichcar.streamlit.app/)
 [![Airflow](https://img.shields.io/badge/Airflow-2.0%2B-green)](https://airflow.apache.org/)
 [![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-Enabled-yellow)](https://cloud.google.com/bigquery)
 
